@@ -13,7 +13,6 @@ If you wish to compile this yourself, you'll need these requirements:
 
   - a C++17 compiler
   - [Visual Studio 2017/2019](https://visualstudio.microsoft.com/)
-  - [CMake](https://cmake.org/)
   
 **NOTE:** *if you do not have these requirements, NVM might not work properly!*
 
