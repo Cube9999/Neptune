@@ -2,7 +2,7 @@
 Neptune VM is a Virtual Machine written in C++, you can use this Virtual Machine to implement different programming languages
 
 
-**NOTE:** *This project is in a very very early stage, Please report any bugs/errors in the issues section! If you wish to help develop this project, feel *
+**NOTE:** *This project is in a very very early stage, Please report any bugs/errors in the issues section! If you wish to help develop this project, feel free to do so! You can start a pull request and wait for it to be approved.*
 
 <img src="http://lastskidded.isgay.co/j8_4l.png"> </img>
 
