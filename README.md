@@ -1,6 +1,9 @@
 # Neptune VM
 Neptune VM is a Virtual Machine written in C++, you can use this Virtual Machine to implement different programming languages
 
+
+**NOTE:** *This project is in a very very early stage, Please report any bugs/errors in the issues section! If you wish to help develop this project, feel *
+
 <img src="http://lastskidded.isgay.co/j8_4l.png"> </img>
 
 
@@ -40,7 +43,8 @@ Soon:tm:
   - Implement lua using NVM for reference (0%)
   - Add examples (0%)
   - C++ API for the VM (0%)
-  
+## End goal
+An efficient, easy to use & implement Virtual Machine to make developing a programming language easier.
   
 # Change Log
 
@@ -50,3 +54,5 @@ For a change log, please look at ./changelog.txt
 
 
 This project was started by [Cube9999](https://github.com/Cube9999) (Cube#3301)
+
+Thanks to all other contributors for helping in the development of this project!
