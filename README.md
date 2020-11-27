@@ -5,7 +5,10 @@ Neptune VM is a Virtual Machine written in C++, you can use this Virtual Machine
 **NOTE:** *This project is in a very very early stage, Please report any bugs/errors in the issues section! If you wish to help develop this project, feel free to do so! You can start a pull request and wait for it to be approved.*
 
 <img src="http://lastskidded.isgay.co/j8_4l.png"> </img>
-
+<p align="center">
+    <a href="https://en.wikipedia.org/wiki/C%2B%2B"><img width="300" height="100" src="http://aj.likes-furry-porn.wtf/l0q6i.png"></a>
+    <a href="https://github.com/Cube9999/NVM/blob/main/LICENSE"><img src="http://lastskidded.is-a-simp.online/5u8ub.png"></a>
+</p>
 
 
 ## Requirements
